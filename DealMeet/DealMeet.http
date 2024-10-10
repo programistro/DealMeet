@@ -1,0 +1,6 @@
+@DealMeet_HostAddress = http://localhost:5126
+
+GET {{DealMeet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

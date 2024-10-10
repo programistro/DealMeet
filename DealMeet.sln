@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealMeet", "DealMeet\DealMeet.csproj", "{1B47541F-2934-4BD8-AB35-92BB3141E5C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealMeet.Core", "DealMeet.Core\DealMeet.Core.csproj", "{F4D060A7-2907-4BC0-9926-88D74AEDE485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealMeet.Test", "DealMeet.Test\DealMeet.Test.csproj", "{A76445CE-3711-4637-A132-62904401E9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B47541F-2934-4BD8-AB35-92BB3141E5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B47541F-2934-4BD8-AB35-92BB3141E5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B47541F-2934-4BD8-AB35-92BB3141E5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B47541F-2934-4BD8-AB35-92BB3141E5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D060A7-2907-4BC0-9926-88D74AEDE485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D060A7-2907-4BC0-9926-88D74AEDE485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D060A7-2907-4BC0-9926-88D74AEDE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D060A7-2907-4BC0-9926-88D74AEDE485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76445CE-3711-4637-A132-62904401E9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76445CE-3711-4637-A132-62904401E9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76445CE-3711-4637-A132-62904401E9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76445CE-3711-4637-A132-62904401E9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
